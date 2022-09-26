@@ -36,8 +36,8 @@
 - Enquiry Management System
 - GYM website
 
-[![Linkedin: Siva Prasad](https://img.shields.io/badge/-jatin-sohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadiyala-siva-prasad/)](https://www.linkedin.com/in/kadiyala-siva-prasad/)
-[![GitHub Siva Prasad](https://img.shields.io/github/followers/codedfilepile?label=follow&style=social)](https://github.com/codedfilepile)
+[![Linkedin: Siva Prasad](https://img.shields.io/badge/siva%20prasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadiyala-siva-prasad/)](https://www.linkedin.com/in/kadiyala-siva-prasad/)
+[![GitHub Siva Prasad](https://img.shields.io/github/followers/siva9495?label=follow&style=social)](https://github.com/siva9495)
 
 
 *Languages and Tools:*  
