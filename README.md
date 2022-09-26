@@ -2,22 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+devloper;+and+a+coder.)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsohlot&label=Views&color=blue&style=plastic" alt="jatinsohlot"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva9495&label=Views&color=blue&style=plastic" alt="siva9495"/> </p>
 
-<a href="https://www.linkedin.com/in/jatin-sohlot">
-  <img align="left" alt="Jatin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kadiyala-siva-prasad/">
+  <img align="left" alt="Siva Prasad Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/codedfilepile">
-  <img align="left" alt="Jatin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/siva9495">
+  <img align="left" alt="Siva Prasad Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Levi_ackermen_012">
-  <img align="left" alt="Jatin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/Ronaldo">
+  <img align="left" alt="Siva Prasad Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/j3chaudhary/">
-  <img align="left" alt="Jatin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/_siva_prasad_07/">
+  <img align="left" alt="Siva Prasad Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100017073694135">
-  <img align="left" alt="Jatin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/siva.kadiyala.142/">
+  <img align="left" alt="Siva Prasad Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -27,38 +27,34 @@
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently doing full stack development.
 - 🤔 I’m looking forward for more contribution in 2022.
-- 📫 How to reach me: [LinkedIn - @Jatin Sohlot](https://www.linkedin.com/in/jatin-sohlot)
+- 📫 How to reach me: [LinkedIn - @Siva Prasad](https://www.linkedin.com/in/kadiyala-siva-prasad/)
 - 🌱 I’m active on leetcode too.
 - 🤔 I’m looking forward for developing cutting edge websites.
 
 ## My projects
-- Snake Game🐍
-- Weather API app
-- Book selling website
-- Weding management website
-- ToDo list web app
+- MaterialHub App
+- Enquiry Management System
+- GYM website
 
-[![Linkedin: Jatin Sohlot](https://img.shields.io/badge/-jatin-sohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinsohlot/)](https://www.linkedin.com/in/jatinsohlot/)
-[![GitHub Jatin Sohlot](https://img.shields.io/github/followers/codedfilepile?label=follow&style=social)](https://github.com/codedfilepile)
+[![Linkedin: Siva Prasad](https://img.shields.io/badge/-jatin-sohlot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadiyala-siva-prasad/)](https://www.linkedin.com/in/kadiyala-siva-prasad/)
+[![GitHub Siva Prasad](https://img.shields.io/github/followers/codedfilepile?label=follow&style=social)](https://github.com/codedfilepile)
 
 
 *Languages and Tools:*  
-- C++
+- JAVA
+- Android Development
 - HTML
 - CSS
-- Javascript
-- React js
-- Node JS
-- Express
-- PHP
+- C/C++
+- FireBase
 
 <br/>
-<a href="https://github.com/codedfilepile">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedfilepile&show_icons=true&theme=light&line_height=27" alt="Jatin's github stats"/>
+<a href="https://github.com/siva9495">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=siva9495&show_icons=true&theme=light&line_height=27" alt="siva9495's GitHub Stats"/>
 </a>
 
 ### My LeetCode Stats
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=jatinsohlot)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=siva_07)
 
 <div align="center">
 Show some ❤️ by starring some of the repositories!
