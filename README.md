@@ -32,7 +32,8 @@
 - 🤔 I’m looking forward for developing cutting edge websites.
 
 ## My projects
-- MaterialHub App
+- HomeOfSastra App
+- HomeOfSastra Website
 - Enquiry Management System
 - GYM website
 
