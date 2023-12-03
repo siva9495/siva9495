@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently doing full stack development.
-- 🤔 I’m looking forward for more contribution in 2022.
+- 🤔 I’m looking forward for more contribution in 2024.
 - 📫 How to reach me: [LinkedIn - @Siva Prasad](https://www.linkedin.com/in/kadiyala-siva-prasad/)
 - 🌱 I’m active on leetcode too.
 - 🤔 I’m looking forward for developing cutting edge websites.
