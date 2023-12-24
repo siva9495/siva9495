@@ -42,12 +42,16 @@
 
 
 *Languages and Tools:*  
-- JAVA
+- Java
+- JavaScript
+- ExpressJs
+- ReactJs
 - Android Development
-- HTML
-- CSS
+- HTML5
+- CSS3
 - C/C++
 - FireBase
+- MongoDB
 
 <br/>
 <a href="https://github.com/siva9495">
